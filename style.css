@@ -73,6 +73,9 @@
 .card h2 {
     margin-bottom: 6px;
 }
+p {
+  font-size: 10px;
+}
 .card img {
     height: 250px;
     width: 300px;

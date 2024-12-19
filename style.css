@@ -38,13 +38,13 @@
 
 @keyframes imgchanges {
     0%{
-        background-image: url(../img3-ani.png);
+        background-image: url(img3-ani.png);
     }
     50%{
-        background-image: url(../img1-ani.png);
+        background-image: url(img1-ani.png);
     }
     100%{
-        background-image: url(../img4-ani.png);
+        background-image: url(img4-ani.png);
     }
 }
 
